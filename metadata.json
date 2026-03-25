@@ -1,9 +1,0 @@
-{
-  "name": "Inkcial",
-  "description": "A modern social media and messaging platform for real-time connection and sharing.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone",
-    "notifications"
-  ]
-}
